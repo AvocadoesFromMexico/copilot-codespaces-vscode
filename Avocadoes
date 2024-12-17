@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        
+        <h1>Hope's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>First post!</li>
+            <li>Second post!</li>
+        </ul>
+        
+        <h2>First post!</h2>
+        <h5>12/12/2024 4:11 PM</h5>
+        
+        <p>My little brother woke up from his nap and cried.😭</p>
+        
+        
+        <h2>Second post!</h2>
+        <h5>12/12/2024 4:16 PM</h5>
+        
+        <p>I will go to work soon. 🔨</p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
